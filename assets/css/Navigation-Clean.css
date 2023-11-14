@@ -93,3 +93,11 @@ a {
   box-shadow: 0px 2px 4px 0px rgba(15, 86, 179, 0.20), 0px 1px 2px 0px rgba(15, 86, 179, 0.20);
 }
 
+tr {
+  /*border-top: 1px solid var(--grey-7, #E5EAEE);*/
+}
+
+td {
+  border-top: 1px solid var(--grey-7, #E5EAEE) !important;
+}
+
